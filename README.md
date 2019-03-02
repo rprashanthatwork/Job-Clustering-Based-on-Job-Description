@@ -6,7 +6,7 @@ This Notebook shows how to cluster a set of documents using Python. My motivatin
 
 This jupyter notebook covers:
 
-# Tokenizing and stemming each synopsis
-# Transforming the corpus into vector space using tf-idf
-# Calculating cosine distance between each document as a measure of similarity
-# Clustering the documents using the k-means algorithm
+### Tokenizing and stemming each synopsis
+### Transforming the corpus into vector space using tf-idf
+### Calculating cosine distance between each document as a measure of similarity
+### Clustering the documents using the k-means algorithm
